@@ -7,7 +7,7 @@ interface IPerson {
   age: number
 }
 
-const person4: Person = {
+const person4: IPerson = {
   name: 'John',
   age: 34
 }

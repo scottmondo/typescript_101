@@ -1,5 +1,4 @@
 function identity<Type>(arg: Type): Type {
-  //arg.
   return arg;
 }
 
